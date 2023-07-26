@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top_link{
+    background-color: #DCDCDC ;
+    border: 1px solid rgb(187, 181, 181);
+    overflow: hidden;
+}
+.top-left{
+    float: left;
+    width: 10%;
+}
+.top-left .notification{
+    background-color: #F92324;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+    
+}
+.notification span{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.top-left, img{
+    
+    width: 40px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 3px;
+}
+.top-right{
+    float: left;
+    padding: 15px 10px 7px 15px;
+}
+.middel{
+    background-color: #EAEAEA;
+    overflow: hidden;
+    border-bottom: 2px solid #B0B1B3;
+}
+.container{
+    width: 70%;
+    margin: 10% 15% 8% 15%;  
+    box-shadow: #A0A0A0 5px 10px 30px 10px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+.heading{
+    background-color: #D8D8D8;
+    margin: 0 -12px 0 -12px;
+}
+.heading h4{
+    text-align: center;
+    padding: 5px 0;
+}
+.new h5{
+    font-size: 22px;
+    font-weight: 600;
+}
+.new{
+    margin-left: 30px;
+}
+.new hr{
+    width: 70%;
+    margin-top: 0;
+    padding-top: 0;
+}
+.hr{
+    height: 6px;
+    background-color: #367EE4;
+    width: 15%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.inside{
+    margin-left: 30px;
+}
+.inside-left{
+    float: left;
+}
+.inside-left h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+.inside-left .update{
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #fff;
+    border-radius: 1px solid #000;
+}
+.inside-left button{
+    border: 1px solid rgb(182, 179, 179);
+    border-radius: 1px solid #000;
+    box-shadow: 2px 1px 1px 2px solid #000;
+}
+.inside-right{
+    float: right;
+}
+.inside-right img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: -50px;
+    margin-right: 20px;
+}
+.bottom{
+    background-color: #EEEEEE;
+    clear: both;
+}
+.bottom-top p{
+    font-size: 20px;
+    padding: 25px 35px;
+}
+.bottom-b{
+    float: right;
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
+.bottom-b .button-left{
+    background-color: #2E81F9;
+}
+.button-left{
+    padding: 3px 30px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+.button-right{
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 3px 30px;
+    
+}
+
+.footer-left{
+    float: left;
+    width: 2%;
+    padding-left: 10px;
+}
+.footer-middle{
+    float: left;
+    width: 95%;
+    height: 14px;
+    background-color: #C0C0C0;
+    margin-bottom: 0;padding-bottom: 0;
+    margin-top: 8px;
+
+}
+.footer-right{
+    float: right;
+    width: 3%;
+}
+.fake-update h2{
+    text-align: center;
+    color: #000;
+    font-size: 35px;
+    font-weight: 600;
+    
+}
+.flash-player{
+    width: 40%;
+    background-color: #4C4C4C;
+    position: absolute;
+    top: 90%;
+    right: 0;
+}
+.flash-photo{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+.flash-photo img{
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding-right: 8px;
+}
+.flash-content{
+    float: left;
+    width: 50%;
+    color: #fff;
+    padding-top: 15px;
+}
+.flash-content h4{
+    font-weight: 600;
+}
+.flash-content p{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.1rem;
+}
+.flash-button{
+    float: right;
+    padding: 10px 20px 10px 5px;
+}
+.flash-button-t{
+    color: #fff;
+}
+.flash-button-t h5{
+    display: inline-block;
+    color: #B6B6B6;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+.flash-button-b{
+    margin: 0;padding: 0;
+}
+.flash-button-b button{
+    background-color: #367BED;
+    border: 2px solid #367BED;
+    border-radius: 5px;
+    color: #fff;
+    padding: 0 15px 0 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
